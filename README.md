@@ -38,7 +38,7 @@
         </section>
     </main>
     <footer>
-        <p>&copy; 2024 EuropeanHistory1700s.com</p>
+        <p>&copy; 2024 OmarNahid</p>
     </footer>
 </body>
 </html>
